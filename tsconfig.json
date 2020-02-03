@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "lib": ["es2020"],
+    "types": ["node"],
+    "resolveJsonModule": true
+  }
+}

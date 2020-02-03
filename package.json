@@ -1,0 +1,14 @@
+{
+  "name": "honode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Midokura",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^13.7.0",
+    "mqtt": "^3.0.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
